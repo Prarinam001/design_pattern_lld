@@ -1,1 +1,3 @@
 /dependency-inversion-principle/bad_example/__pycache__
+/dependency-inversion-principle/good_example/__pycache__
+/liskov-substitutional-principle/good_example/__pycache__
