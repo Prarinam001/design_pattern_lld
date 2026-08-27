@@ -2,3 +2,4 @@
 /dependency-inversion-principle/good_example/__pycache__
 /liskov-substitutional-principle/good_example/__pycache__
 /design_pattern/observer_design_pattern/with_pattern/__pycache__
+/design_pattern/strategy_design_pattern/without_pattern/__pycache__
